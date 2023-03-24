@@ -1,0 +1,8 @@
+{
+  "name": "SpotCheck",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ca53851b"
+}
